@@ -9,7 +9,7 @@
 
 # Preview
   <p float="left">
-  <img src="https://user-images.githubusercontent.com/130816242/232187374-b23c0911-5566-4e58-a330-9a197d327edf.jpg" width="500" />
+  <img src="https://user-images.githubusercontent.com/130816242/232187374-b23c0911-5566-4e58-a330-9a197d327edf.jpg" width="300" />
 
 </p>
 
